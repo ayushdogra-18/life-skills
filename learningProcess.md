@@ -9,7 +9,7 @@
 ## Ques-3: What are active and diffused modes of thinking?
 **Ans:** Active thinking means thinking with full focus, and diffuse thinking means thinking in a relaxed way where ideas come on their own.
 
-## Ques-4:
+## Ques-4: According to the video, what are the steps to take when approaching a new topic? Only mention the points.
 **Ans:**
 - Focus on the topic
 - Understand the basic idea first
